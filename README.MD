@@ -3,7 +3,7 @@ Required dependencies:
   springweb
   spring sctuator
   spring devtools
-  spring client
+  spring config client
   
-2. Cloud config
+
  
